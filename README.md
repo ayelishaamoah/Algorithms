@@ -16,7 +16,11 @@ It should:
 * For more pointers on how to time code, here's a more detailed document. It also addresses a few of the the common problems you may experience.
 
 Time the following functions:
+
 ```.last```
+
 ```.reverse```
+
 ```.shuffle```
+
 ```.sort```(if you are generating an array from a range, don't forget to shuffle it first to not bias the results)
